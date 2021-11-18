@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 import numpy
 import os
-from functools import *
+
 from adclick import function
 
 app = Flask(__name__)
